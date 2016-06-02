@@ -1,0 +1,77 @@
+[
+    {
+        "id": "_0",
+        "name": "Archer",
+        "description": "Les Archers apprennent le maniement de l’arc, de l’arbalète et, par extension, de toutes les armes à distance. Cette discipline met l’accent sur la précision et, à un niveau moindre, sur la rapidité. La plupart des Archers font preuve d’une acuité exceptionnelle, remarquant souvent ce que les autres ne distinguent même pas."
+    },
+    {
+        "id": "_1",
+        "name": "Cavalier",
+        "description": "Les membres de la discipline du Cavalier sont de fiers guerriers montés. Ils s’entraînent en compagnie de leur monture et développent un lien empathique très fort avec elle. En fait, les Cavaliers ont plus de respect pour leur monture que pour n’importe quel donneur-de-noms, à l’exception peut-être des autres Cavaliers. Cette discipline met l’accent sur le mouvement et l’empathie avec la monture."
+    },
+    {
+        "id": "_2",
+        "name": "Éclaireur",
+        "description": "Les Éclaireurs sont des pisteurs, de braves rôdeurs, l’avant-garde qui se rend là où les autres ne peuvent pas. Les Éclaireurs sont passés maîtres dans l’art de ne faire plus soit forestier ou citadin."
+    },
+    {
+        "id": "_3",
+        "name": "Écumeur du ciel",
+        "description": "Les Écumeurs du ciel sont des pirates sans pitié dont la puissance en Barsaive est incomparable. Leurs drakkars attaquent toute la province, notamment les Thérans et leurs navires volants. Les Écumeurs du ciel sont fi ers et éprouvent une grande loyauté les uns envers les autres... sauf si vous appartenez à un clan ou à une assemblée ennemie !"
+    },
+    {
+        "id": "_4",
+        "name": "Élémentaliste",
+        "description": "Les Élémentalistes sont des magiciens qui se focalisent sur l’apprentissage et la maîtrise du pouvoir des cinq éléments magiques : l’air, le bois, l’eau, le feu et la terre."
+    },
+    {
+        "id": "_5",
+        "name": "Forgeron",
+        "description": "Les Forgerons apprennent à endurcir leur volonté et à garder un œil critique sur les choses. Ils aident à identifi er et à fabriquer des armes légendaires, et pour ce faire, la discipline emprunte à la fois à l’élémentalisme et à la sorcellerie. La plupart des communautés donnent une grande importance à leurs Forgerons."
+    },
+    {
+        "id": "_6",
+        "name": "Guerrier",
+        "description": "Les Guerriers sont des combattants et des soldats entraînés à utiliser leur magie pour rendre plus performantes leurs techniques au combat. Ils se regroupent souvent dans ce qu’ils appellent des ordres, menant une vie de reclus dans des communautés semblables à des ordres monastiques."
+    },
+    {
+        "id": "_7",
+        "name": "Illusioniste",
+        "description": "Les Illusionnistes lancent des sorts qui abusent nos cinq sens, ce qui ne veut cependant pas dire que tous les sorts d’illusionnisme n’ont pas d’effets réels. Ils savent depuis bien longtemps que si tout ce qu’ils faisaient n’étaient qu’illusion, les gens s’en rendraient compte et leur magie ne serait plus aussi effi cace. Ils développent donc un mélange équilibré de magie réelle, d’illusions, de supercherie et de tours de passe-passe."
+    },
+    {
+        "id": "_8",
+        "name": "Maître d’armes",
+        "description": "Les Maîtres d’armes sont des combattants ayant appris l’importance de la façon dont on manie une arme. Leur entraînement met l’accent sur la rapidité d’exécution, la classe et le panache en combat."
+    },
+    {
+        "id": "_9",
+        "name": "Maître des animaux",
+        "description": "Les Maîtres des animaux ont un don inné pour travailler avec les animaux. La plupart d’entre eux ne se sentent pas à l’aise dans les grandes cités et préfèrent vivre dans la nature, loin des gens."
+    },
+    {
+        "id": "_10",
+        "name": "Navigateur du ciel",
+        "description": "Les Navigateurs du ciel sont les fiers compagnons du royaume du ciel. Ils n’abandonnent jamais leurs frères derrière eux et embrassent l’idée que l’union fait la force. Ce sont les protecteurs de la civilisation et ils s’efforcent de la répandre plutôt que d’en faire leur victime."
+    },
+    {
+        "id": "_11",
+        "name": "Nécromancien",
+        "description": "Les Nécromanciens sont des magiciens spécialisés dans la magie des mondes inférieurs. Ils s’intéressent aux autres plans d’existence, ainsi qu’aux esprits et aux créatures qui y vivent. La plupart des gens considèrent les Nécromanciens comme étant des personnes « en décalage » (au sens inquiétant du terme), c’est pourquoi les adeptes de cette discipline auront peu de chance de remporter des concours de popularité auprès des peuples de Barsaive."
+    },
+    {
+        "id": "_12",
+        "name": "Sorcier",
+        "description": "Les Sorciers sont des magiciens très bien entraînés dans la maîtrise des aspects théoriques de la magie. Ceux qui suivent les autres disciplines de magicien déprécient les Sorciers en faisant d’eux de simples « rats de grimoire », mais il est intéressant de voir que rares sont ceux qui oseraient le leur dire en face."
+    },
+    {
+        "id": "_13",
+        "name": "Troubadour",
+        "description": "Les Troubadours sont des amuseurs, des conteurs, des acteurs et des chanteurs. En tant que tels, ils représentent ce qui, dans le quotidien du peuple de la province, se rapproche le plus d’un historien ou d’un érudit."
+    },
+    {
+        "id": "_14",
+        "name": "Voleur",
+        "description": "Les Voleurs apprennent très jeunes à voler et à être autonomes. Ils tirent leur force de leur confi ance en eux et de la conscience qu’ils ont de ne dépendre que d’eux-mêmes. L’abondance des rumeurs à propos de guildes de Voleurs signifi e qu’elles existent peut-être, mais les preuves qui pourraient confi rmer ou infi rmer ceci n’ont jamais fait surface."
+    }
+]

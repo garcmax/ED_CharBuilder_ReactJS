@@ -1,0 +1,42 @@
+[
+    {
+        "id": "_0",
+        "name": "Elfes",
+        "description": "La terrible et lumineuse beauté de notre Grande Reine brille comme un fanal. Sa Cour toute entière est le refl et de cette beauté et le refl et du choix fait par les elfes du bois de Sang. Je pense qu’il nous faudra bientôt choisir à nouveau, mais, cette fois-ci, pour nous-mêmes. Je pense que nous devrons alors choisir une autre voie.- Furnithann, Élémentaliste elfe, dans une lettre adressée à son ami, le Nécromancien Mestoph"
+    },
+    {
+        "id": "_1",
+        "name": "Humains",
+        "description": "Théra et le royaume de Throal. Ce sont les géants qui foulent notre sol. Notre meilleure stratégie est de rester entre nous, de ne pas prendre parti à moins d’y être contraints et, dans ce cas, de choisir Throal. Il est plus facile d’ignorer la condescendance des nains que les chaînes des esclavagistes Thérans.- Conseiller Kaj Ther de Landis"
+    },
+    {
+        "id": "_2",
+        "name": "Nains",
+        "description": "Le Roi Varulus est un monarque avisé, contrairement à son fi ls Neden, qui semble être un peu hâtif dans ses choix. Nous avons besoin de commercer avec tous les peuples de Barsaive, voilà la vérité. Mais le fait que je commerce avec les t’skrangs ne signifie pas que je veuille voir l’une de leur maudite langue de lézard plongée dans ma chope.- Holliz, Conseiller de Throal"
+    },
+    {
+        "id": "_3",
+        "name": "Obsidiens",
+        "description": "Écoute la roche et la terre. Ceux qui t’entourent veulent toujours se hâter, car ils écoutent l’eau dans leur sang et le feu dans leur cœur. Mais tu es fait de pierre vivante. Écoute la roche et la terre. L’appel de ceux qui t’entourent est l’appel du volcan. Le feu dans leur cœur est assez chaud pour faire fondre ton univers, autour de toi. Écoute la roche et la terre.- Extrait de La Roche-de-vie, traduction naine"
+    },
+    {
+        "id": "_4",
+        "name": "Orks",
+        "description": "Les nains payent bien, mais je n’aime pas leur attitude. En même temps, je n’aime l’attitude de personne.- Kraeg Œil-jaune, Cavalier ork au service du royaume de Throal"
+    },
+    {
+        "id": "_5",
+        "name": "Sylphelins",
+        "description": "yahaaaaaaaaaaaaaaaaaaaaaa !- Poorht, Voleur sylphelin, s’enfuyant pour sauver sa vie après avoir dérobé la dague du capitaine troll Larus Baldurion, pirate du cristal."
+    },
+    {
+        "id": "_6",
+        "name": "Trolls",
+        "description": "Ne laissez personne se moquer de vous, pas même un obsidien. Tenez votre parole et faites en sorte que les autres tiennent la leur. Je fais généralement une exception pour les sylphelins. Ils fi lent comme l’éclair et leur langue court tout aussi vite. La confrontation directe ne fait que les encourager. Mieux vaut attendre qu’ils s’endorment, et ensuite, éclatez-leur petite tête - Larus Baldurion, capitaine des pirates du cristal, dans son discours traditionnel à l’intention des nouvelles recrues."
+    },
+    {
+        "id": "_7",
+        "name": "T'skrangs",
+        "description": "Le nom de notre peuple ? Eh bien, cher ami théran, les histoires à ce propos sont nombreuses. Si tu veux entendre la véritable version, prête une oreille très attentive aux sons qui résonnent à l’intérieur de ton casque. Quoi ? Oh, ce n’est que ma queue. Écoute attentivement, car la vérité te sera bientôt révélée.- Extrait de la transcription du procès du pirate t’skrang Theormaz"
+    }
+]
